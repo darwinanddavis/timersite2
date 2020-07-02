@@ -4,7 +4,7 @@ blogdown::install_hugo()
 blogdown::update_hugo()
 hugo_version()
 
-setwd("/Users/malishev/Documents/Melbourne Uni/Programs/blogdown_test/timersite2/timersite2")
+setwd("/Users/malishev/Documents/Melbourne Uni/Programs/blogdown_test/timersite2/timersite2/")
 # run once
 # new_site(theme="themefisher/timer-hugo") 
 
