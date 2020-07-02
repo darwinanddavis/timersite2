@@ -5,5 +5,4 @@ _run_site.r # this file contains all the initial site setup code
 .Rhistory
 .RData
 .Ruserdata
-public/
 .DS_Store
