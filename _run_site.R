@@ -11,7 +11,7 @@ setwd("/Users/malishev/Documents/Melbourne Uni/Programs/blogdown_test/timersite2
 # serve_site() # just need to do once per r session  
 build_site() # update site 
 
-# create new blog post ------------------------------------------------------
+# create new blog post ---------------------------------------------------------
 
 source("blog_post_func.R") # source blog function 
 blogtitle <- "Creating code chunks"
